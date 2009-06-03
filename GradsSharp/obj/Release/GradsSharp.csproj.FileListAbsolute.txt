@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GradsSharp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GradsSharp\bin\Release\GradsSharp.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GradsSharp\bin\Release\GradsSharp.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GradsSharp\obj\Release\GradsSharp.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GradsSharp\obj\Release\GradsSharp.pdb
+C:\Documents and Settings\Administrator\Desktop\petroula\GradsSharp\GradsSharp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\petroula\GradsSharp\GradsSharp\obj\Release\GradsSharp.dll
+C:\Documents and Settings\Administrator\Desktop\petroula\GradsSharp\GradsSharp\bin\Release\GradsSharp.dll
+C:\Documents and Settings\Administrator\Desktop\petroula\GradsSharp\GradsSharp\bin\Release\GradsSharp.pdb
+C:\Documents and Settings\Administrator\Desktop\petroula\GradsSharp\GradsSharp\obj\Release\GradsSharp.pdb
+C:\petroula\GradsSharp\GradsSharp\bin\Release\GradsSharp.dll
+C:\petroula\GradsSharp\GradsSharp\bin\Release\GradsSharp.pdb
+C:\petroula\GradsSharp\GradsSharp\obj\Release\ResolveAssemblyReference.cache
+C:\petroula\GradsSharp\GradsSharp\obj\Release\GradsSharp.dll
+C:\petroula\GradsSharp\GradsSharp\obj\Release\GradsSharp.pdb
+C:\petroula\GradsSharp\GradsSharp\bin\Release\GradsSharp.dll.config
