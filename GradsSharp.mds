@@ -1,0 +1,21 @@
+<Combine name="GradsSharp" fileversion="2.0" description="GrADS .Net Bindings">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="GradsSharp" configuration="Debug" />
+      <Entry build="True" name="Packages" configuration="" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="GradsSharp" configuration="Release" />
+      <Entry build="True" name="Packages" configuration="" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="GradsSharp" single="True">
+    <Execute type="None" entry="GradsSharp" />
+    <Execute type="None" entry="Packages" />
+  </StartMode>
+  <MonoDevelop.ChangeLogAddIn.ChangeLogInfo policy="UpdateNearestChangeLog" />
+  <Entries>
+    <Entry filename="GradsSharp/GradsSharp.mdp" />
+    <Entry filename="Packages.mdse" />
+  </Entries>
+</Combine>

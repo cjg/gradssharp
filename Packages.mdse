@@ -1,0 +1,25 @@
+<CombineEntry name="Packages" fileversion="2.0" ctype="PackagingProject">
+  <Packages>
+    <Package name="MonoDevelop Project Model Sources">
+      <Builder rootEntry="GradsSharp.mds" targetFile="GradsSharp-mds.tar.gz" format="MonoDevelop.Projects.MonoDevelopFileFormat" ctype="SourcesZipPackageBuilder">
+        <ChildEntries>
+          <Entry>GradsSharp/GradsSharp.mdp</Entry>
+        </ChildEntries>
+      </Builder>
+    </Package>
+    <Package name="Visual Studio .NET 2005 Sources">
+      <Builder rootEntry="GradsSharp.mds" targetFile="GradsSharp-sln.tar.gz" format="MonoDevelop.Prj2Make.MSBuildFileFormat" ctype="SourcesZipPackageBuilder">
+        <ChildEntries>
+          <Entry>GradsSharp/GradsSharp.mdp</Entry>
+        </ChildEntries>
+      </Builder>
+    </Package>
+    <Package name="Tarball">
+      <Builder rootEntry="GradsSharp.mds" TargetDirectory="/home/cjg/GradsSharp/GradsSharp" DefaultConfiguration="Debug" ctype="TarballDeployTarget">
+        <ChildEntries>
+          <Entry>GradsSharp/GradsSharp.mdp</Entry>
+        </ChildEntries>
+      </Builder>
+    </Package>
+  </Packages>
+</CombineEntry>
